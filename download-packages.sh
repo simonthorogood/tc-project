@@ -1,1 +1,1 @@
-git clone --branch v1.0.1 git@github.com:simonthorogood/tc-core.git packages/tc-core
+git clone --branch v1.0.1 https://github.com/simonthorogood/tc-core.git packages/tc-core
